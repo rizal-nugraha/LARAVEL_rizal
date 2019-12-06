@@ -1,0 +1,90 @@
+/* Tinggi Body*/
+
+body {
+	height: 1000px;
+}
+
+/* backgroudnya jumbotron */
+
+.aselole {
+	margin-top: 50px;
+	height: 500px;
+	background-image: url(../assets/img/giphy.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	color: #FFF;
+	text-align: center;
+	text-shadow: 2px 2px 2px rgba(0,0,0,.5)
+	}
+
+/*ukuran lebar gambar Rd.Rizal Nugraha di jumbotronnya*/
+
+.aselole img {
+	width: 200px;
+	border: 5px solid #FFFDA1;
+	}
+
+/*bagian about me*/
+
+div #abt1,div #abt2 {
+	margin-top: 20px;
+	}
+
+div #abt2 {
+	margin-bottom: 30px;
+	}
+
+
+/*bagian Portfolio*/
+
+.portfolio {
+	padding: 2rem 1rem;
+	margin-bottom: 2rem;
+	background-color: #e9ecef;
+	border-radius: 0.3rem;
+	text-align: center;
+	}
+	
+
+/*bagian kontak*/
+
+.contact {
+	min-height: 600px;
+	}
+	
+
+/*bagian akhir halaman*/
+footer {
+	position: absolute;
+	width: 100%;
+	height: 250px;
+	margin-bottom: -200px;
+	line-height: 100px;
+	background-color: #333;
+	color: #999;
+	font-size: 20px;
+	}
+
+/* gambar background untuk Kontak*/
+
+.contact {
+	background-image: url(../assets/img/O6DXT80.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0 54px;
+}
+
+/* gambar background untuk body*/
+
+body {
+	background-image: url(../assets/img/playstation-pattern.png);
+}
+
+.iconsosmed img {
+	width: 50px;
+
+
+}
+
+.iconsosmed	{background-color: #333;}
